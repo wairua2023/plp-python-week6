@@ -11,3 +11,6 @@ get_field.py — Gets a value from a dictionary and handles missing keys.
 Why can't the if check catch abc on its own?
 
 An if check can test conditions, but int("abc") raises a ValueError while Python is trying to perform the conversion. The try/except block is needed to catch that error and handle it safely.
+
+
+![Safe_tools Running](safe_tools.png)
